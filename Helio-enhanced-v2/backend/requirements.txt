@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+google-genai
+tzdata
+numpy
+pillow
+scikit-learn
+scikit-image
+joblib

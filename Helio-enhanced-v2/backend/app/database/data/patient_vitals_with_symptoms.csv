@@ -1,0 +1,501 @@
+﻿Patient ID,Name,Age,Gender,Heart Rate (bpm),SPO2,Temperature (°C),Symptoms,Status
+P001,Sangeetha Vel,37,Female,60,95.7,36.86,No symptoms,Normal
+P002,Venkatesh Iyer,77,Male,63,96.69,36.51,No symptoms,Normal
+P003,Kavitha Murugan,68,Female,59,98.51,37.05,"Weakness, Lightheadedness",Abnormal
+P004,Deepa Vel,41,Female,54,95.01,36.65,"Lightheadedness, Fatigue",Abnormal
+P005,Nandhini Murugan,25,Female,44,98.62,36.98,"Severe dizziness, Confusion",Critical
+P006,Rajesh Selvam,22,Male,79,95.99,40.7,"High fever, Severe headache",Critical
+P007,Rahul Devi,43,Male,81,99.46,37.27,No symptoms,Normal
+P008,Vidhya Gopalan,72,Female,34,97.12,40.79,"Severe headache, Body ache, Severe dizziness, Confusion",Critical
+P009,Arun Vel,50,Male,152,98.58,36.04,"Shortness of breath, Severe dizziness",Critical
+P010,Murugan Reddy,61,Male,156,97.92,36.96,"Shortness of breath, Fainting",Critical
+P011,Kavitha Pillai,35,Female,84,98.2,36.28,Stomach pain,Normal
+P012,Meena Venkatesan,78,Female,31,98,36.53,"Extreme weakness, Confusion",Critical
+P013,Ramya Gopalan,31,Female,49,96.59,37.24,"Dizziness, Fatigue",Abnormal
+P014,Kavitha Ramasamy,45,Female,159,87.72,36.51,"Severe shortness of breath, Rapid breathing, Shortness of breath, Severe dizziness",Critical
+P015,Meena Subramanian,89,Female,114,93.19,37.26,"Fatigue, Wheezing, Anxiety, Dizziness",Abnormal
+P016,Pradeep Natarajan,79,Male,39,78.19,36.92,"Severe shortness of breath, Confusion, Fainting",Critical
+P017,Senthil Anand,23,Male,83,78.04,37.22,"Rapid breathing, Severe shortness of breath",Critical
+P018,Swathi Chandran,62,Female,84,97.58,36.15,"Joint pain, Sore throat",Normal
+P019,Sangeetha Murugan,57,Female,77,96.24,38.76,"Chills, Sore throat",Abnormal
+P020,Lakshmi Mani,84,Female,97,94.45,37.47,"Mild chest tightness, Fatigue",Abnormal
+P021,Bala Reddy,55,Male,117,90.15,37.16,"Fatigue, Mild chest tightness, Anxiety, Palpitations",Abnormal
+P022,Gayathri Mani,48,Female,33,79.12,36.18,"Chest tightness, Bluish lips, Chest pain, Confusion",Critical
+P023,Mythili Devi,60,Female,108,95.58,37.96,"Chills, Sore throat, Chest discomfort, Dizziness",Abnormal
+P024,Ashok Reddy,39,Male,69,97.68,36.96,No symptoms,Normal
+P025,Evangeline Subramanian,62,Female,80,99.52,36.86,"Joint pain, Sore throat",Normal
+P026,Divya Chandran,84,Female,76,99.64,37.42,No symptoms,Normal
+P027,Harish Venkatesan,37,Male,65,96.23,36.56,Back pain,Normal
+P028,Praveen Subramanian,22,Male,124,96.3,37.24,"Dizziness, Lightheadedness",Abnormal
+P029,Sneha Sundaram,35,Female,60,97.87,37.2,No symptoms,Normal
+P030,Mohan Raj,69,Male,147,97.29,37.12,"Fainting, Palpitations",Critical
+P031,Deepa Selvam,86,Female,162,96.99,36.06,"Shortness of breath, Fainting",Critical
+P032,Ashok Shankar,79,Male,84,98.51,36.85,No symptoms,Normal
+P033,Ashok Shankar,27,Male,32,83.01,36.89,"Confusion, Severe shortness of breath, Fainting",Critical
+P034,Venkatesh Raj,67,Male,108,97.57,38.4,"Sweating, Headache, Chest discomfort, Palpitations",Abnormal
+P035,Ishwarya Reddy,29,Female,42,89.72,36.89,"Bluish lips, Severe shortness of breath, Extreme weakness, Chest pain",Critical
+P036,Vidhya Raj,39,Female,74,95.97,36.54,"Back pain, Headache",Normal
+P037,Janani Balasubramanian,73,Female,99,97.03,36.98,No symptoms,Normal
+P038,Gayathri Anand,52,Female,48,95.45,37.13,"Lightheadedness, Dizziness",Abnormal
+P039,Surya Sundaram,74,Male,106,99.75,36.27,"Dizziness, Palpitations",Abnormal
+P040,Sathish Narayanan,44,Male,69,96.53,36.01,Nausea,Normal
+P041,Divya Anand,55,Female,52,96.71,36.21,"Dizziness, Lightheadedness",Abnormal
+P042,Deepa Raj,42,Female,49,99.92,39.3,"Fever, Sweating, Dizziness, Weakness",Abnormal
+P043,Bala Ravi,29,Male,156,88.94,36.7,"Chest tightness, Rapid breathing, Chest pain, Fainting",Critical
+P044,Surya Pillai,65,Male,83,98.67,36.17,No symptoms,Normal
+P045,Mythili Shankar,21,Female,95,92.3,37.38,"Shortness of breath on exertion, Fatigue",Abnormal
+P046,Harish Rajan,77,Male,126,97.54,37.44,"Dizziness, Palpitations",Abnormal
+P047,Kumar Mani,51,Male,88,98.63,37.26,"Back pain, Stomach pain",Normal
+P048,Arun Subramanian,26,Male,94,98.55,37.29,Mild fatigue,Normal
+P049,Mythili Sundaram,40,Female,51,93.89,36.23,"Shortness of breath on exertion, Fatigue, Dizziness, Weakness",Abnormal
+P050,Murugan Gopalan,80,Male,38,95.34,36.37,"Severe dizziness, Fainting",Critical
+P051,Pooja Selvam,34,Female,51,95.01,36.49,"Lightheadedness, Fatigue",Abnormal
+P052,Revathi Vel,75,Female,65,96.41,36.55,No symptoms,Normal
+P053,Kumar Reddy,68,Male,109,98.46,37.17,"Chest discomfort, Anxiety",Abnormal
+P054,Sathish Rajan,18,Male,56,95.03,39.02,"Fever, Sore throat, Lightheadedness, Fatigue",Abnormal
+P055,Aishwarya Narayanan,58,Female,126,91.47,36.46,"Fatigue, Persistent cough, Anxiety, Dizziness",Abnormal
+P056,Revathi Chandran,28,Female,64,98.9,37.44,No symptoms,Normal
+P057,Anitha Nair,63,Female,47,98.89,36.69,"Lightheadedness, Fatigue",Abnormal
+P058,Revathi Narayanan,78,Female,61,97.98,37.2,"Nausea, Mild fatigue",Normal
+P059,Balaji Venkatesan,42,Male,48,92.92,36.53,"Wheezing, Persistent cough, Dizziness, Weakness",Abnormal
+P060,Karthik Venkatesan,63,Male,99,94.53,36.47,"Shortness of breath on exertion, Wheezing",Abnormal
+P061,Vidhya Murugan,52,Female,95,95.11,36.63,No symptoms,Normal
+P062,Surya Vel,56,Male,98,98.69,36.81,No symptoms,Normal
+P063,Rajesh Narayanan,70,Male,52,99.45,36.44,"Lightheadedness, Fatigue",Abnormal
+P064,Bala Ramasamy,23,Male,78,99.39,36.19,No symptoms,Normal
+P065,Pooja Reddy,52,Female,87,99.99,40.91,"Body ache, Confusion",Critical
+P066,Ramya Pillai,51,Female,60,94.72,37.07,"Persistent cough, Mild chest tightness",Abnormal
+P067,Harini Sundaram,21,Female,74,99.3,38.63,"Sweating, Sore throat",Abnormal
+P068,Prakash Devi,69,Male,95,92.56,36.81,"Wheezing, Mild chest tightness",Abnormal
+P069,Pooja Subramanian,86,Female,72,99.07,38.55,"Sweating, Body ache",Abnormal
+P070,Sathish Narayanan,85,Male,80,95.57,39.35,"Sweating, Fever",Abnormal
+P071,Rajesh Nair,75,Male,71,97.15,36.61,Mild cough,Normal
+P072,Suresh Venkatesan,74,Male,64,97.88,37.4,No symptoms,Normal
+P073,Naveen Kumar,29,Male,141,99.87,40.83,"Body ache, Severe headache, Fainting, Shortness of breath",Critical
+P074,Bhavani Venkatesan,39,Female,64,97.92,36.28,Mild cough,Normal
+P075,Bhavani Nair,62,Female,63,80.52,36.39,"Bluish lips, Chest tightness",Critical
+P076,Thenmozhi Murugan,80,Female,127,98.23,39.09,"Chills, Fever, Palpitations, Anxiety",Abnormal
+P077,Sangeetha Kumar,42,Female,96,96.61,37.1,No symptoms,Normal
+P078,Ramesh Pillai,63,Male,121,95.71,37.93,"Body ache, Fever, Anxiety, Palpitations",Abnormal
+P079,Lakshmi Subramanian,58,Female,48,99.66,37.65,"Chills, Fever, Weakness, Lightheadedness",Abnormal
+P080,Kavitha Gopalan,61,Female,162,80.98,36.73,"Chest tightness, Confusion, Shortness of breath, Fainting",Critical
+P081,Nandhini Shankar,56,Female,95,97.87,36.55,No symptoms,Normal
+P082,Sangeetha Murugan,49,Female,141,95.92,40.18,"Severe chills, Severe headache, Palpitations, Severe dizziness",Critical
+P083,Ishwarya Natarajan,81,Female,75,98.42,37.3,Headache,Normal
+P084,Vignesh Ravi,46,Male,73,94.1,36.55,"Fatigue, Wheezing",Abnormal
+P085,Deepa Natarajan,88,Female,81,99.05,41,"Confusion, Body ache",Critical
+P086,Praveen Reddy,72,Male,115,95.51,36.1,"Dizziness, Anxiety",Abnormal
+P087,Rajesh Shankar,34,Male,95,98.92,36.77,No symptoms,Normal
+P088,Sowmya Narayanan,85,Female,116,98.73,36.36,"Anxiety, Palpitations",Abnormal
+P089,Kalaivani Balasubramanian,55,Female,91,96.51,37.47,Back pain,Normal
+P090,Gopal Natarajan,71,Male,65,99.37,37.04,No symptoms,Normal
+P091,Prakash Narayanan,77,Male,56,96.81,36.67,"Lightheadedness, Dizziness",Abnormal
+P092,Shalini Pillai,39,Female,60,80.74,37.25,"Chest tightness, Wheezing",Critical
+P093,Kavitha Anand,59,Female,96,99.49,37.31,"Runny nose, Mild cough",Normal
+P094,Swathi Nair,26,Female,56,97.94,38.02,"Sweating, Fever, Lightheadedness, Dizziness",Abnormal
+P095,Mohan Venkatesan,43,Male,34,97.76,37.48,"Severe dizziness, Chest pain",Critical
+P096,Kumar Venkatesan,46,Male,49,96.12,37.11,"Weakness, Fatigue",Abnormal
+P097,Praveen Ravi,53,Male,94,96.27,36.23,No symptoms,Normal
+P098,Ganesh Gopalan,61,Male,73,97.43,37.43,"Stomach pain, Mild fatigue",Normal
+P099,Rajesh Ramasamy,45,Male,99,98.56,36.8,"Sore throat, Mild cough",Normal
+P100,Priya Pillai,78,Female,81,90.21,37.06,"Mild chest tightness, Fatigue",Abnormal
+P101,Lakshmi Raj,35,Female,49,99.62,38.58,"Sweating, Sore throat, Dizziness, Weakness",Abnormal
+P102,Sneha Natarajan,39,Female,60,97.14,36.9,No symptoms,Normal
+P103,Mohan Chandran,62,Male,70,95.68,39.8,"Delirium, Severe chills",Critical
+P104,Pradeep Krishnan,51,Male,44,95.09,37.5,"Confusion, Severe dizziness",Critical
+P105,Surya Murugan,44,Male,62,98.24,37.27,No symptoms,Normal
+P106,Murugan Mani,75,Male,94,99.52,36.32,No symptoms,Normal
+P107,Siva Sundaram,19,Male,140,78.6,37.21,"Bluish lips, Chest tightness, Severe dizziness, Chest pain",Critical
+P108,Revathi Iyer,29,Female,110,96.41,37.1,"Dizziness, Palpitations",Abnormal
+P109,Arun Shankar,35,Male,142,89.02,40.47,"Confusion, Rapid breathing, Severe chills, Severe dizziness, Palpitations",Critical
+P110,Sangeetha Vel,31,Female,78,95.4,36.78,No symptoms,Normal
+P111,Gayathri Iyer,57,Female,95,96.33,36.24,No symptoms,Normal
+P112,Siva Chandran,67,Male,39,95.96,36.54,"Fainting, Severe dizziness",Critical
+P113,Kalaivani Chandran,71,Female,77,98.46,38.11,"Sweating, Chills",Abnormal
+P114,Swathi Chandran,72,Female,119,97.35,36.73,"Dizziness, Lightheadedness",Abnormal
+P115,Pradeep Krishnan,54,Male,74,96.98,36.34,No symptoms,Normal
+P116,Keerthana Rajan,19,Female,61,99.74,36.18,No symptoms,Normal
+P117,Harini Gopalan,86,Female,96,96.07,36.41,No symptoms,Normal
+P118,Deepa Krishnan,34,Female,70,96.9,36.29,No symptoms,Normal
+P119,Evangeline Vel,20,Female,82,96.34,37.17,"Mild fatigue, Back pain",Normal
+P120,Janani Mani,88,Female,71,93.55,37.43,"Persistent cough, Mild chest tightness",Abnormal
+P121,Kumar Venkatesan,21,Male,62,92.47,36.2,"Shortness of breath on exertion, Persistent cough",Abnormal
+P122,Vignesh Reddy,24,Male,168,98.51,36.95,"Chest pain, Palpitations",Critical
+P123,Sowmya Murugan,39,Female,147,95.19,37.11,"Severe dizziness, Fainting",Critical
+P124,Surya Devi,20,Male,109,98.57,36.08,"Anxiety, Chest discomfort",Abnormal
+P125,Sowmya Ravi,84,Female,125,95.13,37.41,"Palpitations, Chest discomfort",Abnormal
+P126,Rajesh Chandran,72,Male,79,97.87,40.34,"Confusion, Body ache",Critical
+P127,Evangeline Raj,59,Female,53,98.16,36.56,"Fatigue, Dizziness",Abnormal
+P128,Bala Kumar,33,Male,90,95.01,36.42,No symptoms,Normal
+P129,Sowmya Pillai,87,Female,84,94.43,37.11,"Persistent cough, Shortness of breath on exertion",Abnormal
+P130,Anitha Ramasamy,48,Female,51,94.53,37.03,"Persistent cough, Mild chest tightness, Lightheadedness, Weakness",Abnormal
+P131,Prakash Reddy,43,Male,162,97.22,37.46,"Shortness of breath, Fainting",Critical
+P132,Naveen Kumar,77,Male,90,99.06,36.1,Runny nose,Normal
+P133,Ishwarya Vel,19,Female,110,92.99,37.19,"Fatigue, Mild chest tightness, Lightheadedness, Dizziness",Abnormal
+P134,Janani Mani,72,Female,73,98.41,36.51,No symptoms,Normal
+P135,Divya Gopalan,32,Female,58,95.23,36.54,"Weakness, Dizziness",Abnormal
+P136,Bala Sundaram,54,Male,79,97.4,36.22,Back pain,Normal
+P137,Karthik Krishnan,65,Male,45,96.36,36.85,"Lightheadedness, Fatigue",Abnormal
+P138,Arun Iyer,58,Male,68,97.77,36.66,No symptoms,Normal
+P139,Balaji Kumar,89,Male,86,95.87,36.91,Stomach pain,Normal
+P140,Naveen Anand,31,Male,62,86.75,37.48,"Confusion, Bluish lips",Critical
+P141,Thenmozhi Vel,60,Female,63,98.21,36.52,Runny nose,Normal
+P142,Anitha Rajan,36,Female,131,97.28,36.32,"Palpitations, Shortness of breath",Critical
+P143,Arjun Selvam,25,Male,53,98.92,36.51,"Lightheadedness, Dizziness",Abnormal
+P144,Prakash Mani,77,Male,64,92.53,37.17,"Shortness of breath on exertion, Persistent cough",Abnormal
+P145,Anitha Balasubramanian,75,Female,35,98.95,41.14,"Body ache, Delirium, Extreme weakness, Severe dizziness",Critical
+P146,Nandhini Rajan,42,Female,154,95.9,39.56,"Confusion, Severe chills, Palpitations, Severe dizziness",Critical
+P147,Mohan Chandran,86,Male,82,95.54,38.18,"Chills, Body ache",Abnormal
+P148,Keerthana Rajan,48,Female,110,99.91,36.4,"Dizziness, Anxiety",Abnormal
+P149,Vijay Narayanan,21,Male,71,99.74,37.18,"Runny nose, Mild cough",Normal
+P150,Shalini Natarajan,35,Female,76,90.61,36.92,"Fatigue, Shortness of breath on exertion",Abnormal
+P151,Sathish Ramasamy,31,Male,45,96.66,36.77,"Weakness, Dizziness",Abnormal
+P152,Dinesh Devi,37,Male,89,97.45,37.13,No symptoms,Normal
+P153,Venkatesh Mani,46,Male,81,79.25,37.27,"Chest tightness, Wheezing",Critical
+P154,Senthil Venkatesan,18,Male,85,98.02,37.32,Joint pain,Normal
+P155,Prakash Chandran,80,Male,76,98.15,36.94,No symptoms,Normal
+P156,Aishwarya Iyer,88,Female,79,98.08,37.25,No symptoms,Normal
+P157,Sneha Devi,61,Female,120,99.21,36.72,"Dizziness, Lightheadedness",Abnormal
+P158,Venkatesh Anand,71,Male,92,97.84,37.72,"Fever, Headache",Abnormal
+P159,Balaji Sundaram,70,Male,130,97.02,37.72,"Sore throat, Fever, Chest discomfort, Dizziness",Abnormal
+P160,Meena Reddy,65,Female,66,97.5,36.41,Runny nose,Normal
+P161,Radhika Ramasamy,19,Female,81,95.5,41.01,"Confusion, Severe headache",Critical
+P162,Manoj Mani,59,Male,59,99.85,37.05,"Weakness, Fatigue",Abnormal
+P163,Senthil Balasubramanian,73,Male,151,97.4,39.93,"Confusion, Severe headache, Palpitations, Fainting",Critical
+P164,Prakash Rajan,44,Male,67,96.66,36.05,Sore throat,Normal
+P165,Revathi Balasubramanian,73,Female,35,98.99,36.69,"Extreme weakness, Chest pain",Critical
+P166,Keerthana Ramasamy,48,Female,75,93.94,36.24,"Shortness of breath on exertion, Persistent cough",Abnormal
+P167,Vidhya Venkatesan,19,Female,78,90.69,36.19,"Fatigue, Persistent cough",Abnormal
+P168,Sowmya Shankar,65,Female,75,98.47,36.52,No symptoms,Normal
+P169,Lakshmi Sundaram,34,Female,44,87.04,40.15,"Rapid breathing, Confusion, Body ache, Delirium, Chest pain, Severe dizziness",Critical
+P170,Balaji Ramasamy,72,Male,106,96.17,36.68,"Lightheadedness, Chest discomfort",Abnormal
+P171,Lakshmi Chandran,18,Female,89,97.96,38.04,"Fever, Chills",Abnormal
+P172,Aishwarya Iyer,80,Female,61,92.03,37.07,"Wheezing, Mild chest tightness",Abnormal
+P173,Revathi Sundaram,88,Female,91,98.77,36.67,No symptoms,Normal
+P174,Ramesh Chandran,26,Male,84,99.61,37.38,No symptoms,Normal
+P175,Praveen Murugan,49,Male,84,98.77,36.76,"Nausea, Back pain",Normal
+P176,Manoj Vel,35,Male,63,95.81,36.55,No symptoms,Normal
+P177,Prakash Narayanan,44,Male,142,84.09,41.44,"Wheezing, Confusion, Delirium, Severe headache, Fainting, Palpitations",Critical
+P178,Divya Gopalan,63,Female,106,97.26,36.94,"Dizziness, Anxiety",Abnormal
+P179,Keerthana Chandran,49,Female,72,99.59,36.54,No symptoms,Normal
+P180,Revathi Murugan,34,Female,98,93.95,37.27,"Wheezing, Mild chest tightness",Abnormal
+P181,Pooja Natarajan,66,Female,46,96.23,36.51,"Fatigue, Weakness",Abnormal
+P182,Ashok Sundaram,54,Male,82,98.57,36.93,No symptoms,Normal
+P183,Priya Shankar,36,Female,65,95.67,36.65,"Runny nose, Mild fatigue",Normal
+P184,Rahul Selvam,47,Male,83,90.28,36.11,"Mild chest tightness, Wheezing",Abnormal
+P185,Dinesh Reddy,84,Male,92,95.13,36.59,No symptoms,Normal
+P186,Ramesh Sundaram,30,Male,47,96.27,36.86,"Lightheadedness, Weakness",Abnormal
+P187,Sowmya Ramasamy,39,Female,80,97.14,37.37,No symptoms,Normal
+P188,Suresh Gopalan,25,Male,57,95.38,37.46,"Dizziness, Lightheadedness",Abnormal
+P189,Dinesh Ravi,29,Male,101,97.59,36.21,"Anxiety, Chest discomfort",Abnormal
+P190,Radhika Gopalan,36,Female,88,97.06,38.58,"Body ache, Sore throat",Abnormal
+P191,Arun Subramanian,28,Male,62,98.06,37.2,No symptoms,Normal
+P192,Revathi Narayanan,58,Female,87,97.16,37.17,"Mild fatigue, Back pain",Normal
+P193,Priya Vel,85,Female,52,95.22,37.7,"Body ache, Headache, Fatigue, Dizziness",Abnormal
+P194,Surya Rajan,73,Male,85,98.68,37.95,"Chills, Sweating",Abnormal
+P195,Gopal Narayanan,35,Male,138,99.83,39.71,"Severe chills, Body ache, Chest pain, Fainting",Critical
+P196,Ramesh Natarajan,86,Male,46,92.85,36.22,"Mild chest tightness, Fatigue, Weakness",Abnormal
+P197,Harish Venkatesan,81,Male,159,86.6,36.13,"Wheezing, Chest tightness, Shortness of breath, Palpitations",Critical
+P198,Naveen Pillai,41,Male,114,98.83,37.49,"Dizziness, Anxiety",Abnormal
+P199,Sowmya Anand,78,Female,53,95.42,36.41,"Lightheadedness, Fatigue",Abnormal
+P200,Harini Rajan,27,Female,159,99.05,36.24,"Chest pain, Palpitations",Critical
+P201,Rajesh Subramanian,25,Male,47,98.32,37.14,"Fatigue, Weakness",Abnormal
+P202,Deepa Devi,57,Female,69,97.31,36.77,No symptoms,Normal
+P203,Sowmya Raj,33,Female,137,80.39,36.19,"Severe shortness of breath, Wheezing, Severe dizziness, Fainting",Critical
+P204,Pooja Subramanian,60,Female,63,91.28,39.32,"Persistent cough, Shortness of breath on exertion, Sweating, Headache",Abnormal
+P205,Janani Kumar,54,Female,47,96.07,37.26,"Dizziness, Fatigue",Abnormal
+P206,Deepa Mani,25,Female,166,84.18,41.5,"Severe shortness of breath, Rapid breathing, Severe headache, High fever, Palpitations, Fainting",Critical
+P207,Naveen Chandran,32,Male,91,98.94,36.04,Headache,Normal
+P208,Revathi Nair,76,Female,101,91.7,36.04,"Wheezing, Persistent cough, Dizziness, Chest discomfort",Abnormal
+P209,Janani Ramasamy,33,Female,70,95,41.23,"Severe headache, Body ache",Critical
+P210,Praveen Devi,34,Male,33,97.42,39.5,"Body ache, High fever, Severe dizziness, Confusion",Critical
+P211,Karthik Nair,40,Male,164,99.28,37.13,"Shortness of breath, Chest pain",Critical
+P212,Manoj Ravi,64,Male,99,99.16,36.94,"Headache, Joint pain",Normal
+P213,Mohan Selvam,52,Male,135,96.14,39.95,"High fever, Body ache, Chest pain, Shortness of breath",Critical
+P214,Priya Devi,27,Female,93,98.87,36.81,No symptoms,Normal
+P215,Sneha Gopalan,42,Female,94,95.97,36.45,No symptoms,Normal
+P216,Kalaivani Raj,61,Female,94,95.43,37.37,"Back pain, Stomach pain",Normal
+P217,Mohan Gopalan,56,Male,84,96.14,37.63,"Sweating, Headache",Abnormal
+P218,Senthil Shankar,31,Male,93,97.43,37.68,"Headache, Sore throat",Abnormal
+P219,Aishwarya Chandran,77,Female,33,96.63,36.22,"Fainting, Severe dizziness",Critical
+P220,Bhavani Balasubramanian,35,Female,96,98.97,36.37,No symptoms,Normal
+P221,Keerthana Krishnan,39,Female,60,98.85,36.87,Nausea,Normal
+P222,Divya Gopalan,60,Female,71,97.89,41.37,"Delirium, Severe headache",Critical
+P223,Shalini Anand,46,Female,94,99.43,37.15,Joint pain,Normal
+P224,Karthik Narayanan,68,Male,65,93.74,36.93,"Mild chest tightness, Persistent cough",Abnormal
+P225,Prakash Rajan,31,Male,30,78.48,40.44,"Rapid breathing, Confusion, Body ache, High fever, Fainting, Severe dizziness",Critical
+P226,Manoj Ravi,89,Male,68,98.94,36.24,No symptoms,Normal
+P227,Priya Venkatesan,57,Female,106,95.22,36.72,"Dizziness, Palpitations",Abnormal
+P228,Arjun Chandran,46,Male,147,88.79,36.81,"Bluish lips, Wheezing, Chest pain, Palpitations",Critical
+P229,Pooja Kumar,21,Female,95,92,36.55,"Wheezing, Fatigue",Abnormal
+P230,Shalini Krishnan,20,Female,49,95.08,37.47,"Lightheadedness, Weakness",Abnormal
+P231,Anjali Subramanian,26,Female,96,99.56,36.87,No symptoms,Normal
+P232,Sundar Mani,66,Male,59,95.44,38.74,"Headache, Fever, Fatigue, Lightheadedness",Abnormal
+P233,Senthil Rajan,27,Male,63,98.26,36.67,Mild cough,Normal
+P234,Ishwarya Iyer,74,Female,99,98.32,36,No symptoms,Normal
+P235,Ramya Reddy,86,Female,128,96.91,36.13,"Lightheadedness, Dizziness",Abnormal
+P236,Kalaivani Ravi,23,Female,146,98.01,36.16,"Severe dizziness, Shortness of breath",Critical
+P237,Mohan Vel,44,Male,167,86.81,36.08,"Confusion, Wheezing, Chest pain, Severe dizziness",Critical
+P238,Arjun Murugan,48,Male,59,98.68,37.4,"Dizziness, Weakness",Abnormal
+P239,Karthik Subramanian,41,Male,36,95.29,36.27,"Extreme weakness, Confusion",Critical
+P240,Karthik Kumar,20,Male,77,95.27,38.68,"Sweating, Fever",Abnormal
+P241,Pooja Sundaram,39,Female,37,99.31,36.01,"Extreme weakness, Severe dizziness",Critical
+P242,Ishwarya Mani,64,Female,30,85.25,40.87,"Wheezing, Chest tightness, Body ache, High fever, Chest pain, Severe dizziness",Critical
+P243,Ganesh Narayanan,83,Male,62,99.6,37.08,"Joint pain, Headache",Normal
+P244,Ishwarya Shankar,51,Female,65,95.47,36.44,No symptoms,Normal
+P245,Mythili Balasubramanian,44,Female,97,99.04,36.64,No symptoms,Normal
+P246,Mythili Sundaram,79,Female,72,96.61,37.1,No symptoms,Normal
+P247,Swathi Murugan,79,Female,62,91.69,36.75,"Wheezing, Fatigue",Abnormal
+P248,Divya Devi,39,Female,87,98.15,39.88,"Confusion, High fever",Critical
+P249,Arun Ravi,65,Male,81,95.14,36.24,No symptoms,Normal
+P250,Pradeep Mani,25,Male,52,96.33,38.22,"Sore throat, Headache, Fatigue, Lightheadedness",Abnormal
+P251,Kumar Gopalan,53,Male,134,99.69,37.5,"Palpitations, Chest pain",Critical
+P252,Ramesh Narayanan,33,Male,59,98.78,37.21,"Dizziness, Weakness",Abnormal
+P253,Mohan Kumar,55,Male,115,96,37.16,"Dizziness, Lightheadedness",Abnormal
+P254,Gopal Natarajan,84,Male,54,95.75,36.39,"Weakness, Fatigue",Abnormal
+P255,Keerthana Ravi,75,Female,77,95.35,36.01,No symptoms,Normal
+P256,Deepa Nair,88,Female,112,96.62,37.25,"Palpitations, Lightheadedness",Abnormal
+P257,Radhika Chandran,39,Female,141,95.5,37.07,"Severe dizziness, Shortness of breath",Critical
+P258,Suresh Murugan,58,Male,78,83.68,37.04,"Bluish lips, Wheezing",Critical
+P259,Nandhini Ramasamy,50,Female,88,95.2,38.59,"Fever, Sore throat",Abnormal
+P260,Arjun Narayanan,42,Male,122,98.97,36.64,"Dizziness, Lightheadedness",Abnormal
+P261,Rahul Krishnan,22,Male,89,96,39.87,"High fever, Body ache",Critical
+P262,Divya Devi,79,Female,124,95.68,36.7,"Anxiety, Palpitations",Abnormal
+P263,Suresh Natarajan,51,Male,40,98.48,39.68,"Confusion, Severe chills, Severe dizziness, Chest pain",Critical
+P264,Praveen Venkatesan,28,Male,158,82.08,37.27,"Bluish lips, Confusion, Fainting, Severe dizziness",Critical
+P265,Ganesh Selvam,84,Male,164,95.76,36.07,"Fainting, Palpitations",Critical
+P266,Praveen Mani,38,Male,34,80.38,40.96,"Severe shortness of breath, Chest tightness, High fever, Confusion, Severe dizziness, Chest pain",Critical
+P267,Nandhini Vel,30,Female,69,99.23,37.23,No symptoms,Normal
+P268,Anitha Shankar,32,Female,109,98.58,36.9,"Chest discomfort, Palpitations",Abnormal
+P269,Harish Chandran,82,Male,139,99.86,37.43,"Shortness of breath, Fainting",Critical
+P270,Suresh Krishnan,72,Male,32,88.01,39.74,"Confusion, Chest tightness, Severe chills, Delirium, Severe dizziness, Fainting",Critical
+P271,Bala Reddy,62,Male,82,99.64,37.49,No symptoms,Normal
+P272,Naveen Vel,57,Male,54,98.07,37.64,"Sore throat, Chills, Lightheadedness, Fatigue",Abnormal
+P273,Kavitha Venkatesan,46,Female,45,99.44,36.85,"Weakness, Lightheadedness",Abnormal
+P274,Dinesh Mani,34,Male,115,97.36,39.23,"Chills, Body ache, Palpitations, Chest discomfort",Abnormal
+P275,Kalaivani Selvam,69,Female,164,97.63,36.49,"Palpitations, Severe dizziness",Critical
+P276,Kumar Venkatesan,19,Male,157,86.67,36.32,"Confusion, Rapid breathing, Chest pain, Fainting",Critical
+P277,Ramya Sundaram,18,Female,68,95.09,39.61,"Confusion, High fever",Critical
+P278,Deepa Kumar,54,Female,87,97.04,41.04,"Severe headache, Body ache",Critical
+P279,Mythili Venkatesan,72,Female,89,88.08,36.14,"Confusion, Chest tightness",Critical
+P280,Karthik Anand,29,Male,83,90.36,36.42,"Persistent cough, Shortness of breath on exertion",Abnormal
+P281,Nandhini Nair,43,Female,92,98.65,37.26,No symptoms,Normal
+P282,Meena Selvam,65,Female,152,96.33,39.56,"Body ache, High fever, Severe dizziness, Chest pain",Critical
+P283,Vidhya Iyer,43,Female,68,98.67,36.37,Mild cough,Normal
+P284,Kavitha Gopalan,53,Female,101,93.41,36.46,"Mild chest tightness, Wheezing, Chest discomfort, Palpitations",Abnormal
+P285,Janani Krishnan,34,Female,83,95.04,36.3,"Back pain, Stomach pain",Normal
+P286,Meena Devi,62,Female,31,98.52,36.37,"Extreme weakness, Chest pain",Critical
+P287,Kumar Vel,23,Male,77,96.49,37.03,Headache,Normal
+P288,Deepa Nair,37,Female,60,97.47,36.88,Runny nose,Normal
+P289,Aishwarya Balasubramanian,24,Female,45,96.62,36.83,"Dizziness, Lightheadedness",Abnormal
+P290,Ramesh Kumar,58,Male,43,98.4,39.67,"Severe chills, Confusion, Chest pain, Severe dizziness",Critical
+P291,Janani Gopalan,64,Female,96,98.38,36.46,Runny nose,Normal
+P292,Ramya Balasubramanian,25,Female,54,95.12,37.44,"Fatigue, Dizziness",Abnormal
+P293,Thenmozhi Mani,43,Female,111,95.63,37.45,"Palpitations, Chest discomfort",Abnormal
+P294,Meena Chandran,67,Female,44,97.49,36.59,"Fainting, Extreme weakness",Critical
+P295,Siva Devi,88,Male,82,94.29,39.06,"Wheezing, Shortness of breath on exertion, Sore throat, Body ache",Abnormal
+P296,Arun Shankar,78,Male,88,96.03,36.59,No symptoms,Normal
+P297,Shalini Balasubramanian,47,Female,146,95.2,36.21,"Shortness of breath, Fainting",Critical
+P298,Priya Raj,32,Female,78,98.29,37.22,No symptoms,Normal
+P299,Kalaivani Mani,53,Female,118,99.09,38.31,"Body ache, Chills, Palpitations, Lightheadedness",Abnormal
+P300,Ishwarya Venkatesan,73,Female,113,94.08,36.51,"Fatigue, Persistent cough, Dizziness, Chest discomfort",Abnormal
+P301,Revathi Chandran,25,Female,95,95.36,37.06,No symptoms,Normal
+P302,Manoj Subramanian,57,Male,54,97.26,36.99,"Fatigue, Lightheadedness",Abnormal
+P303,Vignesh Natarajan,86,Male,125,96.58,36.28,"Chest discomfort, Dizziness",Abnormal
+P304,Sundar Gopalan,25,Male,50,94.4,37.25,"Shortness of breath on exertion, Fatigue, Lightheadedness",Abnormal
+P305,Evangeline Kumar,78,Female,161,84.08,36.58,"Severe shortness of breath, Wheezing, Chest pain, Palpitations",Critical
+P306,Deepa Narayanan,67,Female,65,99.65,36.18,No symptoms,Normal
+P307,Deepa Subramanian,34,Female,167,98.38,36.19,"Chest pain, Palpitations",Critical
+P308,Balaji Sundaram,73,Male,31,79.89,36.45,"Wheezing, Chest tightness, Extreme weakness, Severe dizziness",Critical
+P309,Sneha Natarajan,46,Female,75,97.11,38.46,"Headache, Sore throat",Abnormal
+P310,Kalaivani Devi,70,Female,75,95.9,38.01,"Headache, Body ache",Abnormal
+P311,Balaji Kumar,55,Male,71,96.5,40.19,"Body ache, Delirium",Critical
+P312,Pradeep Subramanian,56,Male,64,90.71,36.94,"Mild chest tightness, Wheezing",Abnormal
+P313,Nandhini Balasubramanian,67,Female,99,95,36.78,"Runny nose, Stomach pain",Normal
+P314,Mohan Mani,45,Male,88,92.15,38.36,"Wheezing, Shortness of breath on exertion, Sore throat, Chills",Abnormal
+P315,Vijay Pillai,35,Male,86,95.8,37.87,"Sore throat, Body ache",Abnormal
+P316,Janani Narayanan,82,Female,115,97.05,36.75,"Chest discomfort, Lightheadedness",Abnormal
+P317,Radhika Sundaram,25,Female,87,97.25,38.21,"Sweating, Sore throat",Abnormal
+P318,Evangeline Iyer,56,Female,115,92.32,36.16,"Persistent cough, Mild chest tightness, Palpitations, Dizziness",Abnormal
+P319,Vijay Ravi,50,Male,38,98.66,37.26,"Chest pain, Severe dizziness",Critical
+P320,Vijay Kumar,71,Male,162,95.16,40.44,"Delirium, Severe headache, Chest pain, Severe dizziness",Critical
+P321,Shalini Selvam,39,Female,142,98.09,40.5,"Delirium, Confusion, Shortness of breath, Fainting",Critical
+P322,Harini Selvam,74,Female,57,96.88,36.26,"Lightheadedness, Weakness",Abnormal
+P323,Sangeetha Shankar,22,Female,110,97.24,36.26,"Palpitations, Lightheadedness",Abnormal
+P324,Arun Rajan,73,Male,144,86.56,36.43,"Rapid breathing, Confusion, Shortness of breath, Palpitations",Critical
+P325,Vidhya Reddy,62,Female,32,89.16,36.53,"Rapid breathing, Severe shortness of breath, Severe dizziness, Chest pain",Critical
+P326,Rahul Anand,54,Male,51,99,37.92,"Body ache, Fever, Dizziness, Fatigue",Abnormal
+P327,Priya Reddy,71,Female,107,99.69,38.29,"Fever, Sweating, Chest discomfort, Anxiety",Abnormal
+P328,Deepa Devi,50,Female,86,82.37,37.18,"Confusion, Wheezing",Critical
+P329,Siva Sundaram,47,Male,95,97.1,37.41,No symptoms,Normal
+P330,Sundar Natarajan,30,Male,46,92.17,36.26,"Mild chest tightness, Fatigue, Weakness",Abnormal
+P331,Vidhya Chandran,50,Female,104,96.07,37.19,"Palpitations, Dizziness",Abnormal
+P332,Lakshmi Sundaram,77,Female,54,99.2,36.21,"Fatigue, Weakness",Abnormal
+P333,Ganesh Murugan,89,Male,30,95.83,37.45,"Fainting, Extreme weakness",Critical
+P334,Kavitha Subramanian,42,Female,42,79.8,36.49,"Rapid breathing, Chest tightness, Chest pain, Fainting",Critical
+P335,Manoj Iyer,87,Male,49,95.17,36.59,"Weakness, Fatigue",Abnormal
+P336,Balaji Chandran,54,Male,73,95.99,37.43,Nausea,Normal
+P337,Kumar Raj,74,Male,67,99.59,36.5,No symptoms,Normal
+P338,Anjali Selvam,73,Female,157,96.42,36.33,"Palpitations, Chest pain",Critical
+P339,Rajesh Shankar,79,Male,170,99.07,37.38,"Fainting, Chest pain",Critical
+P340,Naveen Sundaram,28,Male,75,92.52,37.28,"Persistent cough, Shortness of breath on exertion",Abnormal
+P341,Ishwarya Mani,25,Female,52,96.81,36.72,"Dizziness, Weakness",Abnormal
+P342,Janani Ravi,70,Female,68,99.59,39.09,"Chills, Headache",Abnormal
+P343,Vignesh Chandran,72,Male,95,99.21,38.18,"Body ache, Fever",Abnormal
+P344,Radhika Devi,66,Female,66,95.44,39.28,"Body ache, Fever",Abnormal
+P345,Divya Balasubramanian,34,Female,77,79.61,36.29,"Confusion, Chest tightness",Critical
+P346,Shalini Krishnan,75,Female,67,97.78,36.16,Sore throat,Normal
+P347,Ganesh Sundaram,52,Male,80,98.86,36.58,No symptoms,Normal
+P348,Murugan Iyer,39,Male,47,95.42,38.99,"Sore throat, Fever, Dizziness, Fatigue",Abnormal
+P349,Aishwarya Shankar,70,Female,54,95.08,36.49,"Dizziness, Weakness",Abnormal
+P350,Gopal Raj,78,Male,76,93.06,39.15,"Persistent cough, Mild chest tightness, Sore throat, Fever",Abnormal
+P351,Anitha Devi,73,Female,83,96.76,38.89,"Body ache, Sore throat",Abnormal
+P352,Naveen Murugan,77,Male,84,95.5,39.33,"Body ache, Chills",Abnormal
+P353,Anitha Selvam,29,Female,34,99.24,36.74,"Extreme weakness, Confusion",Critical
+P354,Arun Ravi,48,Male,96,97.81,39.18,"Sore throat, Headache",Abnormal
+P355,Lakshmi Vel,63,Female,34,98.43,37.48,"Severe dizziness, Fainting",Critical
+P356,Vignesh Venkatesan,18,Male,90,89.7,36.02,"Rapid breathing, Confusion",Critical
+P357,Kumar Nair,40,Male,49,96.62,36.01,"Lightheadedness, Fatigue",Abnormal
+P358,Nandhini Subramanian,76,Female,131,96.86,41.38,"Severe chills, Confusion, Palpitations, Chest pain",Critical
+P359,Arun Selvam,51,Male,93,97.05,37.32,No symptoms,Normal
+P360,Meena Shankar,41,Female,116,98.65,36.17,"Palpitations, Lightheadedness",Abnormal
+P361,Kalaivani Anand,25,Female,149,83.62,39.99,"Confusion, Rapid breathing, Body ache, Severe dizziness, Shortness of breath",Critical
+P362,Radhika Reddy,29,Female,87,95.11,40.38,"Delirium, Confusion",Critical
+P363,Murugan Vel,85,Male,89,99.96,39.24,"Body ache, Chills",Abnormal
+P364,Pradeep Gopalan,54,Male,117,99.28,37.14,"Dizziness, Anxiety",Abnormal
+P365,Rajesh Venkatesan,41,Male,82,99.11,37.49,No symptoms,Normal
+P366,Rajesh Shankar,33,Male,67,97.23,39.68,"Severe headache, Confusion",Critical
+P367,Shalini Sundaram,66,Female,69,98.26,36.96,Mild fatigue,Normal
+P368,Praveen Iyer,62,Male,60,90.13,36.34,"Fatigue, Wheezing",Abnormal
+P369,Sneha Devi,36,Female,55,95.23,36.97,"Fatigue, Lightheadedness",Abnormal
+P370,Kavitha Raj,47,Female,96,96.71,41.39,"Severe headache, Confusion",Critical
+P371,Aishwarya Vel,37,Female,43,95.66,39.87,"Severe headache, Confusion, Severe dizziness, Fainting",Critical
+P372,Gopal Ravi,55,Male,128,90.25,37.42,"Persistent cough, Wheezing, Dizziness, Palpitations",Abnormal
+P373,Kavitha Venkatesan,57,Female,35,99.03,40.89,"Body ache, Severe headache, Chest pain, Severe dizziness",Critical
+P374,Janani Krishnan,85,Female,50,97.89,36.75,"Weakness, Fatigue",Abnormal
+P375,Vijay Rajan,66,Male,151,97.33,39.84,"Body ache, High fever, Shortness of breath, Fainting",Critical
+P376,Naveen Ramasamy,76,Male,96,96.77,36.94,No symptoms,Normal
+P377,Vidhya Mani,22,Female,64,89.56,37.33,"Bluish lips, Chest tightness",Critical
+P378,Surya Chandran,74,Male,76,96.59,36.68,"Runny nose, Stomach pain",Normal
+P379,Prakash Anand,47,Male,101,96.72,36.05,"Anxiety, Lightheadedness",Abnormal
+P380,Suresh Anand,19,Male,154,86.15,39.82,"Chest tightness, Wheezing, Delirium, Body ache, Shortness of breath, Chest pain",Critical
+P381,Radhika Ramasamy,69,Female,116,96.2,36.73,"Dizziness, Lightheadedness",Abnormal
+P382,Balaji Chandran,71,Male,45,97.58,36.17,"Fatigue, Weakness",Abnormal
+P383,Dinesh Kumar,43,Male,80,97.36,36.83,"Runny nose, Sore throat",Normal
+P384,Senthil Murugan,54,Male,148,78.77,36.54,"Wheezing, Severe shortness of breath, Severe dizziness, Fainting",Critical
+P385,Thenmozhi Ravi,72,Female,69,98.95,36.72,No symptoms,Normal
+P386,Siva Gopalan,51,Male,87,97.92,37.33,"Joint pain, Headache",Normal
+P387,Mohan Balasubramanian,70,Male,95,99.18,36.39,"Mild fatigue, Sore throat",Normal
+P388,Venkatesh Devi,72,Male,105,90.83,36.09,"Wheezing, Fatigue, Palpitations, Anxiety",Abnormal
+P389,Thenmozhi Natarajan,49,Female,72,95.42,37.45,Runny nose,Normal
+P390,Mythili Sundaram,19,Female,78,90.02,37.4,"Persistent cough, Shortness of breath on exertion",Abnormal
+P391,Bala Anand,62,Male,70,96.26,36.45,Mild fatigue,Normal
+P392,Evangeline Vel,34,Female,94,97.84,38.33,"Fever, Sore throat",Abnormal
+P393,Ashok Kumar,67,Male,160,98.48,36.54,"Chest pain, Shortness of breath",Critical
+P394,Harish Shankar,64,Male,63,95.19,37.36,No symptoms,Normal
+P395,Praveen Sundaram,70,Male,168,95.25,41.15,"Confusion, Delirium, Chest pain, Palpitations",Critical
+P396,Thenmozhi Rajan,50,Female,96,97.67,38.74,"Body ache, Chills",Abnormal
+P397,Ganesh Raj,55,Male,54,99.43,37.01,"Lightheadedness, Fatigue",Abnormal
+P398,Lakshmi Ramasamy,31,Female,136,79.83,39.82,"Confusion, Chest tightness, Severe headache, Chest pain, Fainting",Critical
+P399,Mohan Ramasamy,75,Male,99,81.34,41.1,"Wheezing, Confusion, Body ache, Delirium",Critical
+P400,Dinesh Pillai,28,Male,53,97.86,38.66,"Body ache, Headache, Fatigue, Weakness",Abnormal
+P401,Ashok Sundaram,44,Male,96,95.57,36.72,No symptoms,Normal
+P402,Sneha Subramanian,89,Female,95,98.14,36.26,Back pain,Normal
+P403,Arun Ravi,30,Male,33,95.7,36.51,"Severe dizziness, Fainting",Critical
+P404,Venkatesh Natarajan,61,Male,156,85.46,37.13,"Severe shortness of breath, Bluish lips, Severe dizziness, Chest pain",Critical
+P405,Priya Iyer,43,Female,63,97.76,36.83,No symptoms,Normal
+P406,Mohan Pillai,55,Male,112,97.54,38.69,"Fever, Sore throat, Anxiety, Dizziness",Abnormal
+P407,Karthik Anand,38,Male,43,95.36,40.53,"Body ache, High fever, Fainting, Severe dizziness",Critical
+P408,Harish Ravi,33,Male,56,93.65,36.29,"Mild chest tightness, Shortness of breath on exertion, Weakness, Lightheadedness",Abnormal
+P409,Pradeep Reddy,35,Male,149,97.57,36.32,"Chest pain, Severe dizziness",Critical
+P410,Bala Natarajan,25,Male,86,96.26,36.35,No symptoms,Normal
+P411,Bhavani Venkatesan,23,Female,170,79.81,37.11,"Rapid breathing, Wheezing, Palpitations, Chest pain",Critical
+P412,Revathi Pillai,47,Female,69,96.83,36.64,No symptoms,Normal
+P413,Arun Sundaram,35,Male,65,98.76,38.39,"Fever, Chills",Abnormal
+P414,Prakash Selvam,43,Male,54,97.67,37.36,"Dizziness, Weakness",Abnormal
+P415,Senthil Selvam,48,Male,108,95.06,37.49,"Dizziness, Lightheadedness",Abnormal
+P416,Anitha Ramasamy,71,Female,143,88.89,36.89,"Wheezing, Bluish lips, Fainting, Palpitations",Critical
+P417,Ramya Nair,21,Female,44,88.66,40.86,"Bluish lips, Chest tightness, Severe headache, Delirium, Severe dizziness, Fainting",Critical
+P418,Deepa Murugan,21,Female,40,95.3,36.73,"Extreme weakness, Chest pain",Critical
+P419,Nandhini Krishnan,81,Female,67,97.95,38.6,"Sweating, Fever",Abnormal
+P420,Mythili Shankar,38,Female,63,97.99,37.16,No symptoms,Normal
+P421,Harini Natarajan,36,Female,81,85.87,40.6,"Bluish lips, Rapid breathing, High fever, Severe chills",Critical
+P422,Ramesh Selvam,87,Male,87,81.91,39.66,"Bluish lips, Severe shortness of breath, Confusion, High fever",Critical
+P423,Divya Raj,50,Female,119,97.81,36.88,"Palpitations, Dizziness",Abnormal
+P424,Shalini Sundaram,27,Female,146,99.74,39.87,"High fever, Confusion, Chest pain, Palpitations",Critical
+P425,Murugan Kumar,74,Male,80,99.2,37.25,No symptoms,Normal
+P426,Pooja Sundaram,31,Female,67,97.87,40.26,"Body ache, Severe chills",Critical
+P427,Venkatesh Murugan,38,Male,142,95.88,36.94,"Chest pain, Severe dizziness",Critical
+P428,Anitha Ramasamy,20,Female,56,97.48,36.83,"Dizziness, Lightheadedness",Abnormal
+P429,Aishwarya Nair,61,Female,123,96.38,36.74,"Chest discomfort, Palpitations",Abnormal
+P430,Siva Anand,56,Male,39,96.94,39.6,"Delirium, Body ache, Fainting, Extreme weakness",Critical
+P431,Ganesh Iyer,78,Male,87,97.69,36.64,No symptoms,Normal
+P432,Arjun Vel,65,Male,162,98.8,37.35,"Severe dizziness, Shortness of breath",Critical
+P433,Aishwarya Ramasamy,81,Female,69,95.57,37.42,"Joint pain, Sore throat",Normal
+P434,Suresh Narayanan,50,Male,40,95.24,37.37,"Chest pain, Extreme weakness",Critical
+P435,Senthil Gopalan,47,Male,105,95.91,39.31,"Sweating, Fever, Palpitations, Dizziness",Abnormal
+P436,Venkatesh Murugan,41,Male,81,96.35,36.43,No symptoms,Normal
+P437,Divya Shankar,33,Female,151,96.55,36.56,"Shortness of breath, Chest pain",Critical
+P438,Arjun Ramasamy,87,Male,46,95.38,38.68,"Sore throat, Headache, Weakness, Lightheadedness",Abnormal
+P439,Sathish Murugan,33,Male,68,96.13,36.03,"Nausea, Runny nose",Normal
+P440,Thenmozhi Shankar,53,Female,60,97.1,36.88,No symptoms,Normal
+P441,Anitha Nair,64,Female,132,99.06,36.92,"Chest pain, Palpitations",Critical
+P442,Karthik Subramanian,87,Male,85,93.99,36.98,"Shortness of breath on exertion, Mild chest tightness",Abnormal
+P443,Lakshmi Ravi,77,Female,70,98.74,37.74,"Sore throat, Chills",Abnormal
+P444,Dinesh Selvam,19,Male,124,98.53,38.43,"Fever, Chills, Dizziness, Palpitations",Abnormal
+P445,Shalini Balasubramanian,75,Female,148,96.18,40.18,"Severe headache, Body ache, Palpitations, Chest pain",Critical
+P446,Ishwarya Murugan,38,Female,35,80.69,40.56,"Rapid breathing, Wheezing, Body ache, Severe headache, Confusion, Severe dizziness",Critical
+P447,Balaji Kumar,36,Male,79,98.37,41.33,"Body ache, Confusion",Critical
+P448,Pooja Venkatesan,80,Female,86,96.36,38.79,"Sweating, Body ache",Abnormal
+P449,Bhavani Gopalan,46,Female,52,98.87,37.69,"Body ache, Sore throat, Weakness, Lightheadedness",Abnormal
+P450,Sowmya Iyer,67,Female,92,97.05,36.48,Headache,Normal
+P451,Nandhini Anand,70,Female,66,96.59,37.14,No symptoms,Normal
+P452,Dinesh Iyer,32,Male,93,97.17,40.99,"Severe headache, Severe chills",Critical
+P453,Manoj Krishnan,64,Male,64,87.3,40.71,"Bluish lips, Rapid breathing, Delirium, Body ache",Critical
+P454,Balaji Shankar,28,Male,103,96.33,36.22,"Chest discomfort, Anxiety",Abnormal
+P455,Shalini Venkatesan,31,Female,87,99.54,36.53,No symptoms,Normal
+P456,Ashok Kumar,45,Male,77,98.13,37.29,Mild fatigue,Normal
+P457,Bhavani Gopalan,66,Female,95,95.31,36.78,No symptoms,Normal
+P458,Senthil Vel,71,Male,32,88.34,41.05,"Wheezing, Chest tightness, Confusion, Severe headache, Chest pain, Extreme weakness",Critical
+P459,Lakshmi Krishnan,68,Female,80,93.52,37.01,"Fatigue, Mild chest tightness",Abnormal
+P460,Mohan Reddy,20,Male,113,93.05,36.62,"Shortness of breath on exertion, Mild chest tightness, Dizziness, Palpitations",Abnormal
+P461,Pooja Mani,69,Female,53,98.09,36.89,"Fatigue, Weakness",Abnormal
+P462,Lakshmi Reddy,54,Female,64,97.49,36.1,"Sore throat, Mild fatigue",Normal
+P463,Murugan Narayanan,18,Male,108,98.56,36.46,"Palpitations, Dizziness",Abnormal
+P464,Ganesh Mani,28,Male,90,97.19,38.76,"Fever, Headache",Abnormal
+P465,Keerthana Iyer,51,Female,83,98.21,36.97,"Mild cough, Mild fatigue",Normal
+P466,Nandhini Venkatesan,75,Female,94,95.97,38.02,"Sore throat, Body ache",Abnormal
+P467,Keerthana Venkatesan,64,Female,32,83.44,37.14,"Severe shortness of breath, Chest tightness, Fainting, Extreme weakness",Critical
+P468,Kumar Venkatesan,71,Male,32,85.98,36.86,"Chest tightness, Severe shortness of breath, Confusion, Severe dizziness",Critical
+P469,Sathish Balasubramanian,62,Male,86,95.65,36.25,No symptoms,Normal
+P470,Ishwarya Shankar,38,Female,36,82.74,36.44,"Wheezing, Rapid breathing, Confusion, Chest pain",Critical
+P471,Manoj Anand,27,Male,47,98.51,36.59,"Fatigue, Weakness",Abnormal
+P472,Surya Venkatesan,23,Male,104,94.14,36.27,"Persistent cough, Mild chest tightness, Anxiety, Lightheadedness",Abnormal
+P473,Radhika Nair,80,Female,59,97.7,36.26,"Dizziness, Fatigue",Abnormal
+P474,Manoj Subramanian,44,Male,94,98.04,39.09,"Chills, Body ache",Abnormal
+P475,Senthil Nair,36,Male,86,99.34,36.06,No symptoms,Normal
+P476,Mohan Selvam,77,Male,98,97.17,36.38,"Back pain, Mild fatigue",Normal
+P477,Ramya Ramasamy,80,Female,76,82.74,36.21,"Wheezing, Confusion",Critical
+P478,Kumar Sundaram,35,Male,60,98.65,37.02,No symptoms,Normal
+P479,Gopal Shankar,52,Male,70,85.22,36.49,"Wheezing, Chest tightness",Critical
+P480,Murugan Sundaram,67,Male,71,99.42,38.74,"Fever, Sweating",Abnormal
+P481,Manoj Raj,42,Male,73,98.63,36.07,No symptoms,Normal
+P482,Ashok Natarajan,55,Male,67,95.06,40.73,"High fever, Body ache",Critical
+P483,Shalini Vel,34,Female,90,90.21,37.18,"Fatigue, Persistent cough",Abnormal
+P484,Suresh Raj,32,Male,66,89.34,37.13,"Wheezing, Chest tightness",Critical
+P485,Surya Ravi,44,Male,124,93.94,36.51,"Persistent cough, Shortness of breath on exertion, Anxiety, Chest discomfort",Abnormal
+P486,Bhavani Raj,42,Female,169,97.8,40.89,"High fever, Confusion, Fainting, Palpitations",Critical
+P487,Sangeetha Shankar,27,Female,98,99.86,36.73,"Runny nose, Nausea",Normal
+P488,Prakash Iyer,85,Male,78,99.16,36.27,No symptoms,Normal
+P489,Sneha Natarajan,29,Female,67,98.13,36.81,Sore throat,Normal
+P490,Ganesh Gopalan,84,Male,88,94.75,37.49,"Wheezing, Persistent cough",Abnormal
+P491,Kumar Ravi,88,Male,53,97.36,36.42,"Weakness, Fatigue",Abnormal
+P492,Meena Selvam,73,Female,152,78.3,36.42,"Chest tightness, Confusion, Chest pain, Shortness of breath",Critical
+P493,Sangeetha Reddy,29,Female,34,97.6,36.84,"Fainting, Chest pain",Critical
+P494,Anitha Murugan,37,Female,39,96.15,36.31,"Chest pain, Confusion",Critical
+P495,Pooja Pillai,72,Female,97,97.96,36.54,No symptoms,Normal
+P496,Mythili Natarajan,18,Female,87,93.18,37.4,"Shortness of breath on exertion, Persistent cough",Abnormal
+P497,Kavitha Anand,73,Female,96,91.99,37.8,"Persistent cough, Wheezing, Chills, Fever",Abnormal
+P498,Manoj Anand,42,Male,91,99.44,37.35,No symptoms,Normal
+P499,Shalini Rajan,28,Female,89,92.1,37.31,"Wheezing, Shortness of breath on exertion",Abnormal
+P500,Sangeetha Ravi,18,Female,59,97.23,36.84,"Fatigue, Dizziness",Abnormal

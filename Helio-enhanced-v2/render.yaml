@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: helio
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false        # optional - paste it in the Render dashboard
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: DATABASE_URL
+        value: sqlite:///./helio.db
