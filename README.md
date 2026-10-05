@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Helio
+# Helio
 
 ### A governed multi-agent platform that coordinates hospital care from arrival to discharge
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📑 Table of contents
+##  Table of contents
 
 1. [Problem](#-problem)
 2. [Solution](#-solution)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🎯 Problem
+##  Problem
 
 Inside a hospital, several time-critical decisions are made one after another:
 
@@ -59,7 +59,7 @@ Inside a hospital, several time-critical decisions are made one after another:
 
 In many hospitals each of these lives in a different system, is handed off by phone, paper or memory, and leaves little record of *why* the decision was made. The result is delayed care for the sickest patients, bed bottlenecks, and no clear trail when something goes wrong.
 
-## 💡 Solution
+##  Solution
 
 Helio is a **coordination layer**. Specialised agents each own one decision, an **orchestrator** passes the patient between them, a **risk engine** decides which actions may run automatically and which need a human, and an **audit log** records everything with a reason.
 
@@ -73,7 +73,7 @@ Helio is a **coordination layer**. Specialised agents each own one decision, an 
 
 ---
 
-## 🔍 How Helio differs from typical hospital workflows
+##  How Helio differs from typical hospital workflows
 
 Hospitals vary, so this compares Helio with the *common* pattern rather than any one hospital.
 
@@ -90,7 +90,7 @@ Hospitals vary, so this compares Helio with the *common* pattern rather than any
 
 ---
 
-## 🏗 System architecture
+##  System architecture
 
 ```mermaid
 flowchart LR
@@ -132,7 +132,7 @@ flowchart LR
 
 **Single deployable unit.** A multi-stage Docker build compiles the React app and serves it from FastAPI, so one container runs everything.
 
-## 🧭 Patient journey
+##  Patient journey
 
 ```mermaid
 sequenceDiagram
@@ -159,7 +159,7 @@ sequenceDiagram
 
 ---
 
-## 🤖 The agents
+##  The agents
 
 | Agent | Method | Input → Output | Notes |
 |---|---|---|---|
@@ -177,7 +177,7 @@ sequenceDiagram
 
 ---
 
-## 🛡 Governance layer
+##  Governance layer
 
 The **Risk Engine** classifies every proposed action before it runs.
 
@@ -191,7 +191,7 @@ The **Audit Log** records `patient · agent · action · status · details · ti
 
 ---
 
-## 🚨 Emergency paging
+##  Emergency paging
 
 1. A **nurse** presses the red **Emergency** button and picks a type (road accident / major trauma, cardiac arrest, stroke / head injury, severe breathing difficulty, severe bleeding, major burns, fractures / spine injury, other).
 2. Each type maps to an **ordered list of specialties** (for example road accident → Emergency & Urgent Care → Orthopaedics → Critical Care).
@@ -201,7 +201,7 @@ The **Audit Log** records `patient · agent · action · status · details · ti
 
 ---
 
-## 🩻 X-ray imaging agent
+##  X-ray imaging agent
 
 ```mermaid
 flowchart TD
@@ -225,7 +225,7 @@ flowchart TD
 - **Calibrated probabilities**, not raw margins, feed the confidence score.
 - **Fails safe.** A missing model, an unrecognised image or low confidence all route to manual review. No result is ever made up.
 
-### ⚠️ About the model in this repository
+###  About the model in this repository
 
 > **The bundled `xray_svm.joblib` is a demo model trained on computer-generated (synthetic) limb images, not real patient X-rays.**
 >
@@ -256,7 +256,7 @@ Keep `scikit-learn==1.8.0` and `scikit-image==0.26.0` pinned so the saved model 
 
 ---
 
-## 👥 Roles and permissions
+##  Roles and permissions
 
 | Capability | Doctor | Nurse | Patient |
 |---|:---:|:---:|:---:|
@@ -276,7 +276,7 @@ Passwords are stored hashed (PBKDF2).
 
 ---
 
-## 🧰 Tech stack and why
+##  Tech stack and why
 
 | Layer | Choice | Why |
 |---|---|---|
@@ -290,7 +290,7 @@ Passwords are stored hashed (PBKDF2).
 
 ---
 
-## 📁 Project structure
+##  Project structure
 
 ```
 Helio/
@@ -321,7 +321,7 @@ Helio/
 
 ---
 
-## 🚀 Getting started
+##  Getting started
 
 ### Prerequisites
 - Python 3.11+
@@ -375,7 +375,7 @@ On a fresh database Helio seeds **500 patients** and **110 staff (38 doctors, 72
 
 ---
 
-## 🔌 API overview
+##  API overview
 
 Interactive docs are available at `/docs` (Swagger) when the backend is running. About 56 endpoints; the main groups:
 
@@ -393,7 +393,7 @@ Interactive docs are available at `/docs` (Swagger) when the backend is running.
 
 ---
 
-## ✅ Testing
+##  Testing
 
 ```bash
 cd backend
@@ -410,7 +410,7 @@ pytest
 
 ---
 
-## ☁️ Deployment
+##  Deployment
 
 Helio deploys to **Render** from the included `Dockerfile` and `render.yaml`:
 
@@ -422,7 +422,7 @@ On Render's free plan the disk is ephemeral, so the SQLite database is re-create
 
 ---
 
-## ⚠ Limitations (read this)
+##  Limitations (read this)
 
 - **Prototype only.** Not validated for clinical use and must not be used for real patient care.
 - **Demo X-ray model.** Trained on synthetic images; see [above](#️-about-the-model-in-this-repository).
@@ -431,7 +431,7 @@ On Render's free plan the disk is ephemeral, so the SQLite database is re-create
 - **SQLite** is a demo database and not meant for hospital-scale load.
 - **No standards integration** yet (HL7/FHIR, DICOM, PACS).
 
-## 🗺 Roadmap
+##  Roadmap
 
 - [ ] Train imaging models on real, licensed datasets and report held-out performance
 - [ ] Move to a CNN or transfer-learning model once data and GPU are available
@@ -441,7 +441,7 @@ On Render's free plan the disk is ephemeral, so the SQLite database is re-create
 - [ ] Clinical validation with practising doctors
 - [ ] Compliance work before any real deployment (HIPAA, India's DPDP Act)
 
-## ❓ FAQ
+##  FAQ
 
 **Why SVM instead of a deep network?**
 SVMs work with small datasets, run on a free CPU, and use inspectable features. A CNN is the planned upgrade once real data and a GPU are available.
@@ -460,7 +460,7 @@ Not yet. The bundled model is a demo trained on synthetic images, and the app sa
 
 ---
 
-## 👨‍💻 Team
+##  Team
 
 | Name | Role / contribution |
 |---|---|
@@ -469,10 +469,7 @@ Not yet. The bundled model is a demo trained on synthetic images, and the app sa
 | _Member 3_ | _e.g. ML and imaging pipeline_ |
 | _Member 4_ | _e.g. Governance, testing, deployment and docs_ |
 
-## 📜 Disclaimer
+##  Disclaimer
 
 Helio is a research and demonstration prototype. AI outputs are decision support only and must be reviewed by a qualified doctor or radiologist. It must not be used for real patient care.
 
-## 📄 License
-
-_Add a license (for example MIT) before publishing._
